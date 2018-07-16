@@ -1,0 +1,23 @@
+{
+  "name": "just-rest-cookies",
+  "version": "0.0.1",
+  "description": "Cookies interceptor for just-rest",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "REST",
+    "JSON",
+    "just-rest",
+    "cookies"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorisKotlyarov/just-rest-cookies.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BorisKotlyarov/just-rest-cookies/issues"
+  },
+  "homepage": "https://github.com/BorisKotlyarov/just-rest-cookies#readme",
+  "author": "Boris Kotlyarov",
+  "license": "MIT"
+}
