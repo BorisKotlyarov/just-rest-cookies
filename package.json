@@ -1,6 +1,6 @@
 {
   "name": "just-rest-cookies",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cookies interceptor for just-rest",
   "main": "index.js",
   "scripts": {},
